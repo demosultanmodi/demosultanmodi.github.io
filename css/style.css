@@ -331,6 +331,17 @@ a {
 /*----------------------------------------------------*/
 /* Home Banner Area css
 ============================================================================================ */
+
+.img-fluid-banner {
+  max-width: 100%;
+  height: auto
+}
+
+
+.container-fluid-banner {
+  width: 100%;
+}
+
 .home_banner_area {
   background: url(../img/banner/banner.jpg) no-repeat center bottom;
   position: relative;
