@@ -337,9 +337,10 @@ a {
   height: auto
 }
 
-
 .container-fluid-banner {
   width: 100%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
